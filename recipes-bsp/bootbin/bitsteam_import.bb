@@ -1,4 +1,4 @@
-DESCRIPTION = "import bistream for zybo
+DESCRIPTION = "import bistream for zybo"
 LICENSE = "MIT"
 SRC_URI = "file://design_1.bit"
 
