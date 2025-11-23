@@ -9,3 +9,6 @@ do_install() {
 }
 
 FILES:${PN} = "/boot/design_1.bit"
+
+# Allow FSBL to be built with DEBUG prints on
+XSCTH_BUILD_DEBUG="1"
